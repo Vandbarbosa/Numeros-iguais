@@ -1,0 +1,1 @@
+// Desafio Potência Tech powered by iFood - Java Beginners-Utilizando a classe Scanner.

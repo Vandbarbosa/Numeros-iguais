@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "NumerosIguais",
+            "request": "launch",
+            "mainClass": "NumerosIguais",
+            "projectName": "Numeros Iguais_5e36e148"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "numerosIguais",
+            "request": "launch",
+            "mainClass": "numerosIguais",
+            "projectName": "Numeros Iguais_5e36e148"
+        }
+    ]
+}
